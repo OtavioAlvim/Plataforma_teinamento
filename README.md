@@ -1,4 +1,4 @@
-# Plataforma_teinamento
+# Plataforma_treinamento
 
 
 ##Formulario de login
